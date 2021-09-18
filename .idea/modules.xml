@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebOrder.iml" filepath="$PROJECT_DIR$/WebOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebOrderAutomationProject2.iml" filepath="$PROJECT_DIR$/WebOrderAutomationProject2.iml" />
     </modules>
   </component>
 </project>

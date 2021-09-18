@@ -12,7 +12,7 @@ import java.util.Locale;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-public class WebOrderSeleniumTesting {
+public class WebOrderSeleniumTestingProjectTwo {
 
     @Test
     public void WebOrder() throws ParseException, InterruptedException {
